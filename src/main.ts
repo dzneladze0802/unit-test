@@ -1,1 +1,1 @@
-import { handleInput } from "utils/";
+export { handleInput } from "./utils/handleInput";
