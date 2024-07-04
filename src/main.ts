@@ -1,1 +1,1 @@
-export const A = () => {};
+export { handleInput } from "./utils/handleInput";

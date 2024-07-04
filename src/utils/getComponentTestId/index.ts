@@ -1,0 +1,1 @@
+export { getComponentTestId } from "./getComponentTestId";
